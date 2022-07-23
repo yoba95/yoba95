@@ -27,4 +27,6 @@
 <a href="https://www.instagram.com/cromitho/">Instagram</a>
 
 <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEzGb2HY6sBTAAAAYIpjCZ4j6B5IS8ydasad75rZ_7_KPbbgqKUCp1R8quRWsEpeRYPpvY-ne47m1b2Q7WOuaO6e1Zlxw5S8dy1oDtUnHHgpssPsEMZC8UfTnRPNA-VZQ6si_o=&original_referer=https://yoba95.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmario-o-4810ba229">Linkedin</a>
+
+<a href="https://yoba95.github.io/curriculum/"> Porfolio</a>
 </p>
