@@ -3,13 +3,13 @@
 **yoba95/yoba95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Soy estudiante de la carrera Ingeniería Informática en el Instituto Tecnologico del Valle de Oaxaca.
+- Egresado de la carrera Ingeniería Informática en el Instituto Tecnologico del Valle de Oaxaca.
 - Me gusta la programación❤️
 - Cita Célebre: "Un punto  y coma (;) perdido puede ser un verdadero quebradero de cabeza”.
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <div>
  <p>
- Hola, soy Yobany desarrollador freelance , actualmente estoy empezando mi proyceto de residencia profesional, Soy capaz de construir un aplicación o sitio web desde cero, desde el concepto, la navegación, el diseño y la programación. A lo largo de mi formación academica adopte las mejores prácticas que se utilizan actualmente en desarrollo web y movil👍 . Aprendo rápido, trabajo en equipo y apredí una variedad de lenguajes y herramientas tecnológicas.
+ Hola, soy Yobany desarrollador del lado frontEnd, pero también tengo conocimientos en backend., Soy capaz de construir un aplicación o sitio web desde cero, desde el concepto, la navegación, el diseño y la programación. A lo largo de mi formación academica adopte las mejores prácticas que se utilizan actualmente en desarrollo web y movil👍 . Aprendo rápido, trabajo en equipo y apredí una variedad de lenguajes y herramientas tecnológicas.
 </p>
 </div>
 ---------- Lenguajes de Programación 🌐  ----------
