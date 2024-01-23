@@ -1,6 +1,8 @@
-# ¡Hola, Soy Yobany! 👋
+<div align="center">
+ <H1 align = "center"> Hola, Soy Yobany 👋</H1>
+</div>
 
-## AI | Ingeniero en Informática | Desarrollador Frontend y Backend
+## Ingeniero en Informática | Desarrollador Frontend y Backend
 ![AI](AIBanner.png)
 
 Me apasiona la programación ❤️ y me considero un ingeniero en informática con experiencia tanto en el desarrollo frontend como en el backend.
@@ -27,7 +29,7 @@ Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la
 
 <p align="center">
 
-<a>Correo: myobanychavezdev@gmail.com</a>
+<a>myobanychavezdev@gmail.com</a>
 
 <a href="https://www.facebook.com/croyoz">Facebook</a>
 
