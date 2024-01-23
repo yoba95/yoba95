@@ -3,7 +3,7 @@
 **yoba95/yoba95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Egresado de la carrera Ingeniería Informática en el Instituto Tecnologico del Valle de Oaxaca.
+- Ingeniero en Informática.
 - Me gusta la programación❤️
 - Cita Célebre: "Un punto  y coma (;) perdido puede ser un verdadero quebradero de cabeza”.
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
