@@ -4,11 +4,7 @@
 
 ## Ingeniero en Informática | Desarrollador Frontend y Backend
 
-<!-- ![AI](AIBanner.png) -->
-
-<div align="center">
-  ![AI](AIBanner.png)
-</div>
+![AI](AIBanner.png) 
 
 
 
