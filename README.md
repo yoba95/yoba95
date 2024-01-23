@@ -4,8 +4,8 @@
 
 ## Ingeniero en Informática | Desarrollador Frontend y Backend
 
-![AI](AIBanner.png) 
-
+<!--[AI](AIBanner.png) -->
+![AI](bannerNew.png) 
 
 
 Me apasiona la programación ❤️ y me considero un ingeniero en informática con experiencia tanto en el desarrollo frontend como en el backend.
