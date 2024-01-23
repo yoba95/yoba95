@@ -28,9 +28,9 @@ Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la
 - MySQL
 - MongoDB
 -->
-### Lenguajes de Programación 🌐
 
-<div align="center">
+
+<div align="center">### Lenguajes de Programación 🌐
   
 |    |    |
 |----|----|
