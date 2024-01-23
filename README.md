@@ -16,7 +16,7 @@ Me apasiona la programación ❤️ y me considero un ingeniero en informática 
 
 Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la capacidad de construir aplicaciones y sitios web desde cero, abarcando el concepto, la navegación, el diseño y la programación. A lo largo de mi formación académica, he adoptado las mejores prácticas utilizadas actualmente en desarrollo web y móvil. Me caracterizo por aprender rápido, trabajar en equipo y tener conocimientos en una variedad de lenguajes y herramientas tecnológicas.
 
-### Lenguajes de Programación 🌐
+<!-- ### Lenguajes de Programación 🌐
 
 - JavaScript
 - PHP
@@ -27,7 +27,21 @@ Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la
 - Dart
 - MySQL
 - MongoDB
+-->
+### Lenguajes de Programación 🌐
 
+<div align="center">
+  
+|    |    |
+|----|----|
+| JavaScript | Dart |
+| PHP | MySQL |
+| HTML | MongoDB |
+| CSS |    |
+| Node.js |    |
+| Flutter |    |
+  
+</div>
 ### Contacto 🤝🏻
 
 <p align="center">
