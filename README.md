@@ -3,9 +3,12 @@
 </div>
 
 ## Ingeniero en Informática | Desarrollador Frontend y Backend
-<center>
- ![AI](AIBanner.png)
-</center>
+
+<!-- ![AI](AIBanner.png) -->
+
+<div align="center">
+  ![AI](AIBanner.png)
+</div>
 
 
 
