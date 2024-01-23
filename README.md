@@ -2,8 +2,9 @@
  <H1 align = "center"> Hola, Soy Yobany 👋</H1>
 </div>
 
+<div align="center">
 ## Ingeniero en Informática | Desarrollador Frontend y Backend
-
+</div>
 <!--[AI](AIBanner.png) -->
 ![AI](bannerNew.png) 
 
