@@ -37,9 +37,9 @@ Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la
 | JavaScript | Dart |
 | PHP | MySQL |
 | HTML | MongoDB |
-| CSS |    |
-| Node.js |    |
+| CSS |  Node.js  |
 | Flutter |    |
+|  |    |
   
 </div>
 ### Contacto 🤝🏻
