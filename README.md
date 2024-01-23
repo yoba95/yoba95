@@ -3,7 +3,9 @@
 </div>
 
 ## Ingeniero en Informática | Desarrollador Frontend y Backend
+<div align="center">
 ![AI](AIBanner.png)
+</div>
 
 Me apasiona la programación ❤️ y me considero un ingeniero en informática con experiencia tanto en el desarrollo frontend como en el backend.
 
