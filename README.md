@@ -55,8 +55,8 @@ Hola, soy Yobany, un desarrollador frontend con experiencia en backend. Tengo la
   
 | Correo Electrónico | Redes Sociales | Portafolio |
 |--------------------|-----------------|------------|
-| myobanychavezdev@gmail.com | [Facebook](enlace_facebook) | [Instagram](enlace_instagram) |
-|                      | [Linkedin](enlace_linkedin) | [Mi Portafolio](enlace_portafolio) |
+| myobanychavezdev@gmail.com | [Facebook](enlace_facebook) | [Mi Portafolio](enlace_portafolio) |
+|                      | [Linkedin](enlace_linkedin) |  |
 
                        
 </div>
