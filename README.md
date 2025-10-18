@@ -1,7 +1,8 @@
 <!-- Encabezado con logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yoba95/yoba95/main/logo2.png" alt="YC Technology Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/yoba95/yoba95/main/logo2.png" alt="YC Technology Logo" width="200"/>
 </p>
+
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#c6a450;">Yobany Chávez</span></h1>
 
