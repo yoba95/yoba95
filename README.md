@@ -1,6 +1,6 @@
 <!-- Encabezado con logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yoba95/yoba95/main/logo2.png" alt="YC Technology Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/yoba95/yoba95/main/logo2.png" alt="YC Technology Logo" width="80"/>
 </p>
 
 
